@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Jed](https://jedediaharnold.com)
+## Hi there 👋, I'm Jed
 
 ### About Me Currently
 - 💻 Currently employed as a Frontend Developer 
