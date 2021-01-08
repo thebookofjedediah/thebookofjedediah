@@ -2,9 +2,8 @@
 
 ### About Me Currently
 - 💻 Currently employed as a Frontend Developer 
-- 🔭 I’m currently working on the [Springboard Software Engineering Certificate](https://www.springboard.com/courses/software-engineering-career-track/)
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python and/or JavaScript projects
+- 🔭 I’m currently finishing up the [Springboard Software Engineering Certificate](https://www.springboard.com/courses/software-engineering-career-track/)
+- 👯 Open to collaboration 💪
 
 ### Connect With Me
 
